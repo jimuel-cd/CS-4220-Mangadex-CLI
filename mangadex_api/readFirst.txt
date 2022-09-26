@@ -1,0 +1,1 @@
+Before running in the command line using node you must first use the command "npm install" to install all the modules needed from the package.json.
