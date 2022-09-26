@@ -1,0 +1,2 @@
+When running the CLI you must first change directory to this folder then run "npm install" in order to install all the nessecary modules for cli to run. 
+Then in order to start the app with node run the line "node cli.js run help" in order to get the help information on how to run the commands of the cli.
