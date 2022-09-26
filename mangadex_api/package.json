@@ -1,0 +1,14 @@
+{
+  "name": "mangadex-api",
+  "version": "1.0.0",
+  "description": "a custom node module used to interact with mangadex api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimuel Julaton",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^7.1.1"
+  }
+}
